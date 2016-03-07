@@ -1,0 +1,3 @@
+sudo pip install django-allauth
+sudo pip install django-mptt
+sudo pip install django-geoposition
