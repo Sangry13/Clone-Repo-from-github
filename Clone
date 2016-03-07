@@ -1,0 +1,4 @@
+Copy url from Repo
+then in terminal type "git clone url"
+then cd into that folder
+git checkout branch-name
